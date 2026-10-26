@@ -47,4 +47,3 @@ Estoy buscando **prácticas en desarrollo web**. Si mi perfil encaja con lo que 
 
 * 🌐 **Portfolio web:** [saravaleromaza.github.io/portfolio](https://saravaleromaza.github.io/portfolio/)
 * 💼 **LinkedIn:** [linkedin.com/in/saravaleromaza](https://www.linkedin.com/in/saravaleromaza)
-* ✉️ **Email:** [svaleromaza@gmail.com](mailto:svaleromaza@gmail.com)
