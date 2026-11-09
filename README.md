@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Almer%C3%ADa-Disponible%20para%20pr%C3%A1cticas-blueviolet?style=for-the-badge&logo=map&logoColor=white" alt="Almería · Disponible para prácticas">
-  <img src="https://img.shields.io/badge/DAW-Digitech%20FP-00599C?style=for-the-badge&logo=codeforces&logoColor=white" alt="DAW · Digitech FP">
 </p>
 
 <p align="center">
