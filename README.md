@@ -28,18 +28,6 @@ Vengo del **sector social**, y esa trayectoria me ha dado empatía, comunicació
 
 ---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [📚 biblioteca-java](https://github.com/saravaleromaza/biblioteca-java) | Aplicación de consola para agregar, mostrar y buscar libros en un inventario de biblioteca | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
-| [✅ to-do-CLI](https://github.com/saravaleromaza/to-do-CLI) | Gestor de tareas por consola en Java puro, diseñado con Programación Orientada a Objetos | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
-| [📝 formulario-php](https://github.com/saravaleromaza/formulario-php) | Formulario de registro con validación del lado del servidor, filtrado de datos y protección contra XSS | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
-| [🍲 el-sabor-de-la-abuela](https://github.com/saravaleromaza/el-sabor-de-la-abuela) | Web de restaurante con carta y reservas | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
-| [🌐 portfolio](https://github.com/saravaleromaza/portfolio) | Mi portfolio personal, publicado con GitHub Pages | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
-
----
-
 ## 💻 Stack tecnológico
 
 **Lenguajes**
