@@ -59,11 +59,11 @@ Vengo del **sector social**, y esa trayectoria me ha dado empatía, comunicació
 
 ## 🌱 Ahora mismo estoy
 
+- ☕ Profundizando en **Java** y próximamente: **Spring Boot**
 - 🐘 Profundizando en **PHP** y el desarrollo en entorno servidor
 - 🖥️ Desplegando sitios con **Apache** sobre **Ubuntu Server** (VirtualHosts, HTTPS, control de acceso y logs)
 - ⚡ Practicando **JavaScript** en el cliente
 - 🔐 Aprendiendo buenas prácticas de **seguridad** en aplicaciones web
-
 ---
 
 ## 📫 ¿Hablamos?
